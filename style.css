@@ -1,0 +1,132 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    width: 900px;
+    height: 100%;
+    background-color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+/*colocando um ao lado do outro */
+.cima{
+    display: flex;
+
+}
+/* estilizandop asn imagens*/
+img{
+    padding: 5px 2px 0 5px;
+
+
+}
+/*estilizando a imagem de fundo*/
+.partecima{
+    background-image: url(imgs/Fondo1.jpg);
+    background-size: cover;
+    height: 450px;
+
+}
+
+/*estilizando o header*/
+header{
+    color:rgb(209, 209, 208);
+    text-align:center;
+    margin-top: 70px;
+    font-size: 40px;
+    padding: 0 0 5px 0;
+
+}
+
+/*-estilizando o menu*/
+nav{
+    margin-left: 400px;
+    margin-top: 10px;
+
+}
+/*estilizando links do menu*/
+nav a{
+    padding:10px;
+    text-decoration: none;
+    color: rgb(140, 150, 158);
+
+}
+/*animação do menu*/
+nav a:hover{
+    color: gray;
+
+}
+/*estilizando textos da div patecima*/
+.partecima p{
+    text-align: center;
+    font-size: 17px;
+    color: aliceblue;
+    margin-top: 20px;
+
+}
+/*ajeitando espaçamento*/
+hr{
+    width: 10%;
+    color: white;
+    margin-left: 400px;
+
+}
+
+/*estilizando colunas*/
+.duas_colunas{
+    display: flex;
+
+}
+/*estilizando primeira coluna*/
+.primeira{
+    background-color: rgb(245,48, 48);
+    width: 475px;
+    height: 300px;
+ 
+
+}
+
+.primeira h2{
+    text-align: center;
+    color: azure;
+    margin-top:50px;
+
+}
+
+.primeira p{
+    color: white;
+    text-align: center;
+}
+/*ESTILIZANDO SEGUNDA COLUNA*/
+.segunda{
+    background-color: azure;
+    width: 475px;
+    height: 300px;
+   color: rgb(245,48, 48);
+
+}
+
+.segunda h2{
+    text-align: center; 
+    margin-top:50px; 
+}
+
+.segunda p{
+    
+    text-align: center; 
+}
+/*ESTILIZANDO O  FUNDO DA DIV PARTE 3*/
+.parte3{
+    background-image: url(imgs/Fondo2.jpg);
+    background-size: cover;
+    height: 450px;
+}
+
+.PAR
+
