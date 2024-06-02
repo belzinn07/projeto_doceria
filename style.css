@@ -126,7 +126,102 @@ hr{
     background-image: url(imgs/Fondo2.jpg);
     background-size: cover;
     height: 450px;
+    text-align: center;
 }
 
-.PAR
+
+.h1h1{
+    color: aliceblue;
+    text-align: center;
+    padding: 110px 0 5px 0;
+    font-size: 40px;
+
+}
+.parte3 p{
+    color: aliceblue;
+    padding-top: 20px;
+    font-size: 17px;
+
+}
+button{
+    background-color: transparent;
+    margin-top: 60px;
+    padding: 20px;
+    color: aliceblue;
+    border-color: aliceblue;
+
+}
+.par4{
+    display: flex;
+    padding-top: 29px;
+
+}
+.img1{
+    display: flex;
+    margin-left: 100px;
+
+}
+.test{
+    margin-left: 10px;
+
+}
+.par4{
+    display: flex;
+    padding-top: 29px;
+
+}
+.img1{
+    display: flex;
+    margin-left: 10px;
+
+}
+.test{
+    margin-left: 10px;
+
+}
+.test h3{
+    font-size: 22px;
+
+}
+.test p{
+    margin-top: 10px;
+    font-size: 15px;
+
+}
+.test2{
+    margin-left: 22px;
+}
+.test2 p{
+    margin-top: 10px;
+
+}
+.im2{
+    display: flex;
+    margin-left: 40px;
+
+}
+.par5{
+    display: flex;
+    margin-left: 40px;
+
+}
+.par5img{
+    padding: 0 0 20px 0;
+
+}
+.tudo{
+    background-color: rgb(218,210,199);
+
+}
+.rodape{
+    background-color: black;
+    height: 100px;
+
+}
+footer{
+    color: aliceblue;
+    text-align: center;
+    padding-top: 45px;
+}
+
 
